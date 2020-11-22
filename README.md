@@ -20,7 +20,7 @@ En tercer lugar, introduciremos los archivos hack (se encuentra luma 10.2.1 y go
 
 En cuarto lugar, acudiremos a la consola y abriremos el juego de Pokemon Picross. En esta ocasión se flasheará y saldrá el Homebrew Launcher. 
 A continuación, ejecutaremos el programa TWLfix.3dsx para verificar tener activas las conexiones.
-Posteriormente, ejecutaremos el programa SlotTool para modificar las conexiones. Estás serán renombradas por HAXXXXXXXX
+Posteriormente, ejecutaremos el programa SlotTool para modificar las conexiones. Éstas serán renombradas por HAXXXXXXXX.
 Apagaremos la consola y acudiremos al modeo recóvery (L+R+A+Up+Power). 
 1. ¿Quieres conectarte a internet para actualizar la consola? Aceptar. Lanzará un error 003-1099, es algo común. 
 2- ¿Quieres configurar tu conexión a internet? Aceptar. 
