@@ -1,8 +1,9 @@
 # Methax
 Método de modificación de consola 3Ds
 
-Methax es un proceso de modificación de la consola 3Ds que mezcla parte del proceso Pichaxx [https://gist.github.com/zoogie/931c87ca8cae98c28e931182af26f89b] 
-y parte del proceso USM [https://github.com/zoogie/unSAFE_MODE]. Ambos procesos son del dev Zoogie y todos los agradecimientos son para él y su gran trabajo. 
+Methax es un proceso de modificación de la consola 3Ds que mezcla parte del proceso Pichaxx [https://gist.github.com/zoogie/931c87ca8cae98c28e931182af26f89b]
+parte del proceso Browserhax [https://github.com/zoogie/new-browserhax] y parte del proceso USM [https://github.com/zoogie/unSAFE_MODE]. 
+Ambos procesos son del dev Zoogie y todos los agradecimientos son para él y su gran trabajo. 
 Este repositorio sólo es un conjunto de pasos creados por Zoogie que nacen de la necesidad de hackear la consola 3Ds en la nueva versión 11.14. 
 
 En primer lugar, necesitaremos: 
