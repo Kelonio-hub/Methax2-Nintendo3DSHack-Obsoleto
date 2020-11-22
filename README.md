@@ -23,7 +23,9 @@ A continuación, ejecutaremos el programa TWLfix.3dsx para verificar tener activ
 Posteriormente, ejecutaremos el programa SlotTool para modificar las conexiones. Éstas serán renombradas por HAXXXXXXXX.
 Apagaremos la consola y acudiremos al modeo recóvery (L+R+A+Up+Power). 
 1. ¿Quieres conectarte a internet para actualizar la consola? Aceptar. Lanzará un error 003-1099, es algo común. 
+
 2- ¿Quieres configurar tu conexión a internet? Aceptar. 
+
 3- seleccionar Conexión 1. Modificar ajustes. Segunda página. Servidor Proxy. Ajustes avanzados. La consola se flasheará de nuevo y se acabá de instalar el Boot9
 
 En quinto Lugar, saldrá el menú de Luma (de no ser así lo abriremos con select+power) y marcaremos la opción: Show current NAND in System Settings
