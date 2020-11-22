@@ -22,6 +22,7 @@ En cuarto lugar, acudiremos a la consola y abriremos el juego de Pokemon Picross
 A continuación, ejecutaremos el programa TWLfix.3dsx para verificar tener activas las conexiones.
 Posteriormente, ejecutaremos el programa SlotTool para modificar las conexiones. Éstas serán renombradas por HAXXXXXXXX.
 Apagaremos la consola y acudiremos al modeo recóvery (L+R+A+Up+Power). 
+
 1. ¿Quieres conectarte a internet para actualizar la consola? Aceptar. Lanzará un error 003-1099, es algo común. 
 
 2- ¿Quieres configurar tu conexión a internet? Aceptar. 
