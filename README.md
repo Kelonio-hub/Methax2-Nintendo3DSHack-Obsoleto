@@ -27,11 +27,11 @@ Apagaremos la consola y acudiremos al modeo recóvery (L+R+A+Up+Power).
 
 2- ¿Quieres configurar tu conexión a internet? Aceptar. 
 
-3- seleccionar Conexión 1. Modificar ajustes. Segunda página. Servidor Proxy. Ajustes avanzados. La consola se flasheará de nuevo y se acabá de instalar el Boot9
+3- Seleccionar: Conexión 1. Modificar ajustes. Segunda página. Servidor Proxy. Ajustes avanzados. La consola se flasheará de nuevo y se acabá de instalar el Boot9
 
 En quinto Lugar, saldrá el menú de Luma (de no ser así lo abriremos con select+power) y marcaremos la opción: Show current NAND in System Settings
 
 Por último, quedará: 
-1. Instalar el FBI desde el godmode9 o mediante Rosalina. 
-2. Restablecer las conexiones: abriremos el homebrew launcher (mediante rosalina o mediante .cia), ejecutamos SlootTool y elegimos la opción Restore Wifi. 
+1. Instalar el FBI desde el Godmode9 o mediante Rosalina. 
+2. Restablecer las conexiones: abriremos el Homebrew Launcher (mediante rosalina o mediante .cia), ejecutamos SlootTool y elegimos la opción Restore Wifi. 
 3. Crear respaldo NAND. 
