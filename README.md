@@ -15,7 +15,7 @@ En segundo lugar, acudiremos a:
 - https://bruteforcemovable.com/ para sacar el archivo .sed (se obtiene añadiendo el código de amigo y los dígitos de la primera carpeta que está en el interior de Nintendo 3ds)
 - https://3ds.hobbyist.dev/3dstools/pichaxx.php para sacar el archivo .sav (se obtiene añadiendo el .sed anterior). Este .sav debemos meter en la siguiente ruta: 
 sdmc:/Nintendo 3DS/long hex number/another long hex number/title/00040000/0017c100/data/ y remplazar el ya existente. 
-- https://deadphoenix8091.github.io/3ds/#otherapp para sacar el .bin que deberemos renombrar por otherapp u otherapp.bin. Dicho archivo irá a la raíz de la Sd. 
+-Por último descargaremos el archivo .bin correspondiente a nuestro Modelo de consola y Región https://mega.nz/file/iipklCKJ#-XyNiwmVs8meELzay2qoJCYb_5qfoL5rp0aj-Jq4-BI y lo deberemos renombrar por otherapp u otherapp.bin. Dicho archivo irá a la raíz de la Sd. 
 
 En tercer lugar, introduciremos los archivos hack (se encuentra luma 10.2.1 y godmode9 1.9.2) en la raíz de la sd: https://mega.nz/file/6l821ZzK#83ybuL7ZBbbGEGmRtFXkI6E_Zt8rI7JbwwXlAaiYBQs
 
