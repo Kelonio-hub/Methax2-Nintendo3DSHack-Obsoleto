@@ -12,12 +12,12 @@ En primer lugar, necesitaremos:
 - Apuntar nuestro código de amigo. 
 
 En segundo lugar, acudiremos a: 
-- https://bruteforcemovable.com/ para sacar el archivo .sed (se obtiene añadiendo el código de amigo y los dígitos de la primera carpeta que está en el interior de Nintendo 3ds)
-- https://3ds.hobbyist.dev/3dstools/pichaxx.php para sacar el archivo .sav (se obtiene añadiendo el .sed anterior). Este .sav debemos meter en la siguiente ruta: 
-sdmc:/Nintendo 3DS/long hex number/another long hex number/title/00040000/0017c100/data/ y remplazar el ya existente. 
--Por último descargaremos el archivo .bin correspondiente a nuestro Modelo de consola y Región https://mega.nz/file/iipklCKJ#-XyNiwmVs8meELzay2qoJCYb_5qfoL5rp0aj-Jq4-BI y lo deberemos renombrar por otherapp u otherapp.bin. Dicho archivo irá a la raíz de la Sd. 
+- https://discord.gg/8Fv8GDg para sacar el archivo .sed. Se obtiene añadiendo el código de amigo y los dígitos de carpeta correspondiente al juego Pokemon Picross (están en el interior de la carpeta Nintendo 3ds)
+- https://discord.gg/8Fv8GDg para sacar el archivo .bin correspondiente a nuestro Modelo de consola y Región. Lo deberemos renombrar por otherapp y meterlo en la raíz de la Sd.
+- https://movableproject.notsofter.repl.co/public/pichaxx.php.html para sacar el archivo .sav (se obtiene añadiendo el .sed anterior). Este .sav debemos meter en la siguiente ruta: sdmc:/Nintendo 3DS/long hex number/another long hex number/title/00040000/0017c100/data/ y remplazar el ya existente. 
 
-En tercer lugar, introduciremos los archivos hack (se encuentra luma 10.2.1 y godmode9 1.9.2) en la raíz de la sd: https://mega.nz/file/6l821ZzK#83ybuL7ZBbbGEGmRtFXkI6E_Zt8rI7JbwwXlAaiYBQs
+
+En tercer lugar, introduciremos los archivos hack (se encuentra luma 10.2.1 y godmode9 1.9.2) en la raíz de la sd: https://mega.nz/file/T1EgWRYZ#dV0wl6lylY79XcKu5X0dY_0kOQlaijftIx2zkq3Wkyg
 
 En cuarto lugar, acudiremos a la consola y abriremos el juego de Pokemon Picross. En esta ocasión se flasheará y saldrá el Homebrew Launcher. 
 A continuación, ejecutaremos el programa TWLfix.3dsx para verificar tener activas las conexiones.
