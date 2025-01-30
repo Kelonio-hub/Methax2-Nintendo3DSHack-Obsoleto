@@ -1,4 +1,4 @@
-# Methax 2
+# Methax 2 - PROCESO OBSOLETO
 Método de modificación de consola 3Ds
 
 Methax es un proceso de modificación de la consola 3Ds que mezcla parte del proceso Pichaxx [https://gist.github.com/zoogie/931c87ca8cae98c28e931182af26f89b]
